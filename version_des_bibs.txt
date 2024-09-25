@@ -1,0 +1,19 @@
+
+Les versions des bibliotheques utilisee : 
+
+lightgbm ==> Version: 4.3.0
+scikit-learn ==> Version: 1.4.2 / 1.2.2
+pandas ==> pip show pandas
+numpy ==> Version: 1.26.4
+matplotlib ==> Version: 3.8.4
+watchdog ==> Version: 4.0.1
+joblib ==> Version: 1.4.2
+plotly ==> Version: 5.23.0
+scipy ==> Version: 1.13.0
+seaborn ==> Version: 0.13.2
+pyopenms ==> Version: 3.1.0
+tqdm ==> Version: 4.66.4
+
+Jupyter notebook ==> Version: 7.0.8
+R version 4.4.1
+Python 3.12.3
